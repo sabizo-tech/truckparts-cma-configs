@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1,
+    "BRAND": "ABC",
+    "SPLIT BRANDS": "ABC"
+  },
+  {
+    "id": 2,
+    "BRAND": "AGP",
+    "SPLIT BRANDS": "AGP"
+  },
+  {
+    "id": 3,
+    "BRAND": "ANHAD",
+    "SPLIT BRANDS": "ANHAD"
+  },
+  {
+    "id": 4,
+    "BRAND": "AUTOPAL",
+    "SPLIT BRANDS": "AUTOPAL"
+  },
+  {
+    "id": 5,
+    "BRAND": "BANCO",
+    "SPLIT BRANDS": "BANCO"
+  },
+  {
+    "id": 6,
+    "BRAND": "BIMETAL",
+    "SPLIT BRANDS": "BIMETAL"
+  },
+  {
+    "id": 7,
+    "BRAND": "BOSCH",
+    "SPLIT BRANDS": "BOSCH"
+  },
+  {
+    "id": 8,
+    "BRAND": "BOSCH",
+    "SPLIT BRANDS": "BOSCH (FIP)"
+  },
+  {
+    "id": 9,
+    "BRAND": "CASTROL",
+    "SPLIT BRANDS": "CASTROL"
+  },
+  {
+    "id": 10,
+    "BRAND": "Cummins",
+    "SPLIT BRANDS": "Cummins"
+  },
+  {
+    "id": 11,
+    "BRAND": "DELUX",
+    "SPLIT BRANDS": "DELUX"
+  },
+  {
+    "id": 12,
+    "BRAND": "DOST",
+    "SPLIT BRANDS": "DOST"
+  },
+  {
+    "id": 13,
+    "BRAND": "DYNABOND",
+    "SPLIT BRANDS": "DYNABOND"
+  },
+  {
+    "id": 14,
+    "BRAND": "EICHER",
+    "SPLIT BRANDS": "EICHER"
+  },
+  {
+    "id": 15,
+    "BRAND": "EVL",
+    "SPLIT BRANDS": "EVL"
+  },
+  {
+    "id": 16,
+    "BRAND": "FAG",
+    "SPLIT BRANDS": "FAG"
+  },
+  {
+    "id": 17,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "FENNER"
+  },
+  {
+    "id": 18,
+    "BRAND": "FEREDO (BL)",
+    "SPLIT BRANDS": "FEREDO (BL)"
+  },
+  {
+    "id": 19,
+    "BRAND": "FILTRAC",
+    "SPLIT BRANDS": "FILTRAC"
+  },
+  {
+    "id": 20,
+    "BRAND": "GAJRA",
+    "SPLIT BRANDS": "GAJRA"
+  },
+  {
+    "id": 21,
+    "BRAND": "GOETZE",
+    "SPLIT BRANDS": "GOETZE (COOLANT)"
+  },
+  {
+    "id": 22,
+    "BRAND": "GOETZE",
+    "SPLIT BRANDS": "GOETZE (PISTON)"
+  },
+  {
+    "id": 23,
+    "BRAND": "GOETZE",
+    "SPLIT BRANDS": "GOETZE (RING)"
+  },
+  {
+    "id": 24,
+    "BRAND": "GULF",
+    "SPLIT BRANDS": "GULF"
+  },
+  {
+    "id": 25,
+    "BRAND": "IPL",
+    "SPLIT BRANDS": "IPL (AGRO)"
+  },
+  {
+    "id": 26,
+    "BRAND": "IPL",
+    "SPLIT BRANDS": "IPL (CLUTCH)"
+  },
+  {
+    "id": 27,
+    "BRAND": "IPL",
+    "SPLIT BRANDS": "IPL (LINERS)"
+  },
+  {
+    "id": 28,
+    "BRAND": "IPL",
+    "SPLIT BRANDS": "IPL (PISTON)"
+  },
+  {
+    "id": 29,
+    "BRAND": "IPL",
+    "SPLIT BRANDS": "IPL (RING)"
+  },
+  {
+    "id": 30,
+    "BRAND": "IPL",
+    "SPLIT BRANDS": "IPL (VALVES)"
+  },
+  {
+    "id": 31,
+    "BRAND": "IPL",
+    "SPLIT BRANDS": "IPL KIT"
+  },
+  {
+    "id": 32,
+    "BRAND": "JAWAN",
+    "SPLIT BRANDS": "JAWAN"
+  },
+  {
+    "id": 33,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER BELTS (BELTS)"
+  },
+  {
+    "id": 34,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER BELTS (OIL SEAL)"
+  },
+  {
+    "id": 35,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER FILTERS"
+  },
+  {
+    "id": 36,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER LUBES"
+  },
+  {
+    "id": 37,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER NAP (AVM)"
+  },
+  {
+    "id": 38,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER NAP (BTI)"
+  },
+  {
+    "id": 39,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER NAP (HOSES)"
+  },
+  {
+    "id": 40,
+    "BRAND": "JK FENNER",
+    "SPLIT BRANDS": "JK FENNER WIPERS"
+  },
+  {
+    "id": 41,
+    "BRAND": "JMA",
+    "SPLIT BRANDS": "JMA"
+  },
+  {
+    "id": 42,
+    "BRAND": "JMP",
+    "SPLIT BRANDS": "JMP"
+  },
+  {
+    "id": 43,
+    "BRAND": "KAR VALVES",
+    "SPLIT BRANDS": "KAR VALVES"
+  },
+  {
+    "id": 44,
+    "BRAND": "KCI",
+    "SPLIT BRANDS": "KCI"
+  },
+  {
+    "id": 45,
+    "BRAND": "KNORR-BREMSE",
+    "SPLIT BRANDS": "KNORR-BREMSE"
+  },
+  {
+    "id": 46,
+    "BRAND": "KROSS",
+    "SPLIT BRANDS": "KROSS"
+  },
+  {
+    "id": 47,
+    "BRAND": "KSPG",
+    "SPLIT BRANDS": "KSPG"
+  },
+  {
+    "id": 48,
+    "BRAND": "LEYPARTS",
+    "SPLIT BRANDS": "LEYPARTS"
+  },
+  {
+    "id": 49,
+    "BRAND": "LUK",
+    "SPLIT BRANDS": "LUK"
+  },
+  {
+    "id": 50,
+    "BRAND": "MAHLE",
+    "SPLIT BRANDS": "MAHLE"
+  },
+  {
+    "id": 51,
+    "BRAND": "MEI",
+    "SPLIT BRANDS": "MEI"
+  },
+  {
+    "id": 52,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR"
+  },
+  {
+    "id": 53,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (AMA)"
+  },
+  {
+    "id": 54,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (AMB)"
+  },
+  {
+    "id": 55,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (BEARINGS)"
+  },
+  {
+    "id": 56,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (BL)"
+  },
+  {
+    "id": 57,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (CAP. AXL)"
+  },
+  {
+    "id": 58,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (CAP. BRK)"
+  },
+  {
+    "id": 59,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (CAP. SLP SUS)"
+  },
+  {
+    "id": 60,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (CL)"
+  },
+  {
+    "id": 61,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (CS)"
+  },
+  {
+    "id": 62,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (DL)"
+  },
+  {
+    "id": 63,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (GB)"
+  },
+  {
+    "id": 64,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (KP)"
+  },
+  {
+    "id": 65,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (LUBES)"
+  },
+  {
+    "id": 66,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (OS)"
+  },
+  {
+    "id": 67,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (STP)"
+  },
+  {
+    "id": 68,
+    "BRAND": "MERITOR",
+    "SPLIT BRANDS": "MERITOR (SUSP)"
+  },
+  {
+    "id": 69,
+    "BRAND": "METRO",
+    "SPLIT BRANDS": "METRO"
+  },
+  {
+    "id": 70,
+    "BRAND": "NBC",
+    "SPLIT BRANDS": "NBC"
+  },
+  {
+    "id": 71,
+    "BRAND": "NRB",
+    "SPLIT BRANDS": "NRB"
+  },
+  {
+    "id": 72,
+    "BRAND": "OES",
+    "SPLIT BRANDS": "OES"
+  },
+  {
+    "id": 73,
+    "BRAND": "PAC",
+    "SPLIT BRANDS": "PAC"
+  },
+  {
+    "id": 74,
+    "BRAND": "PORTER",
+    "SPLIT BRANDS": "PORTER"
+  },
+  {
+    "id": 75,
+    "BRAND": "PRICE SUPPORT",
+    "SPLIT BRANDS": "PRICE SUPPORT"
+  },
+  {
+    "id": 76,
+    "BRAND": "RANE AUTO PARTS (BF)",
+    "SPLIT BRANDS": "RANE AUTO PARTS (BF)"
+  },
+  {
+    "id": 77,
+    "BRAND": "RBL",
+    "SPLIT BRANDS": "RBL (BL)"
+  },
+  {
+    "id": 78,
+    "BRAND": "RBL",
+    "SPLIT BRANDS": "RBL (BS)"
+  },
+  {
+    "id": 79,
+    "BRAND": "RBL",
+    "SPLIT BRANDS": "RBL (CLUTCH)"
+  },
+  {
+    "id": 80,
+    "BRAND": "RBL",
+    "SPLIT BRANDS": "RBL (DP)"
+  },
+  {
+    "id": 81,
+    "BRAND": "RELSTAR",
+    "SPLIT BRANDS": "RELSTAR"
+  },
+  {
+    "id": 82,
+    "BRAND": "RIVETS",
+    "SPLIT BRANDS": "RIVETS"
+  },
+  {
+    "id": 83,
+    "BRAND": "RIVON",
+    "SPLIT BRANDS": "RIVON"
+  },
+  {
+    "id": 84,
+    "BRAND": "SERVO",
+    "SPLIT BRANDS": "SERVO"
+  },
+  {
+    "id": 85,
+    "BRAND": "SETCO",
+    "SPLIT BRANDS": "SETCO (BL)"
+  },
+  {
+    "id": 86,
+    "BRAND": "SETCO",
+    "SPLIT BRANDS": "SETCO (Clutch)"
+  },
+  {
+    "id": 87,
+    "BRAND": "SETCO",
+    "SPLIT BRANDS": "SETCO (F Ring Gear)"
+  },
+  {
+    "id": 88,
+    "BRAND": "SETCO",
+    "SPLIT BRANDS": "SETCO (Flywheel)"
+  },
+  {
+    "id": 89,
+    "BRAND": "SETCO",
+    "SPLIT BRANDS": "SETCO (Tractor Clutch)"
+  },
+  {
+    "id": 90,
+    "BRAND": "SETCO",
+    "SPLIT BRANDS": "SETCO (UJ Cross)"
+  },
+  {
+    "id": 91,
+    "BRAND": "SETCO",
+    "SPLIT BRANDS": "SETCO(CRB)"
+  },
+  {
+    "id": 92,
+    "BRAND": "SGAS",
+    "SPLIT BRANDS": "SGAS"
+  },
+  {
+    "id": 93,
+    "BRAND": "SKF",
+    "SPLIT BRANDS": "SKF"
+  },
+  {
+    "id": 94,
+    "BRAND": "SOFIMA",
+    "SPLIT BRANDS": "SOFIMA"
+  },
+  {
+    "id": 95,
+    "BRAND": "SONALIKA BLADES",
+    "SPLIT BRANDS": "SONALIKA BLADES"
+  },
+  {
+    "id": 96,
+    "BRAND": "SPICER",
+    "SPLIT BRANDS": "SPICER"
+  },
+  {
+    "id": 97,
+    "BRAND": "SRMT",
+    "SPLIT BRANDS": "SRMT"
+  },
+  {
+    "id": 98,
+    "BRAND": "STL",
+    "SPLIT BRANDS": "STL"
+  },
+  {
+    "id": 99,
+    "BRAND": "SUPER PAC",
+    "SPLIT BRANDS": "SUPER PAC"
+  },
+  {
+    "id": 100,
+    "BRAND": "TAFE",
+    "SPLIT BRANDS": "TAFE"
+  },
+  {
+    "id": 101,
+    "BRAND": "TALBROS",
+    "SPLIT BRANDS": "TALBROS"
+  },
+  {
+    "id": 102,
+    "BRAND": "TALBROS QHT",
+    "SPLIT BRANDS": "TALBROS QHT"
+  },
+  {
+    "id": 103,
+    "BRAND": "TEXSPIN",
+    "SPLIT BRANDS": "TEXSPIN"
+  },
+  {
+    "id": 104,
+    "BRAND": "TGP",
+    "SPLIT BRANDS": "TGP"
+  },
+  {
+    "id": 105,
+    "BRAND": "TIGER POWER (LINERS)",
+    "SPLIT BRANDS": "TIGER POWER (LINERS)"
+  },
+  {
+    "id": 106,
+    "BRAND": "TIGER POWER (LINERS)",
+    "SPLIT BRANDS": "TIGER POWER (VALVES)"
+  },
+  {
+    "id": 107,
+    "BRAND": "TIMKEN",
+    "SPLIT BRANDS": "TIMKEN"
+  },
+  {
+    "id": 108,
+    "BRAND": "TRUCKPARTS-COOLANT",
+    "SPLIT BRANDS": "TRUCKPARTS-COOLANT"
+  },
+  {
+    "id": 109,
+    "BRAND": "TRUCKPARTS-DEF",
+    "SPLIT BRANDS": "TRUCKPARTS-DEF"
+  },
+  {
+    "id": 110,
+    "BRAND": "TVR",
+    "SPLIT BRANDS": "TVR"
+  },
+  {
+    "id": 111,
+    "BRAND": "TVS",
+    "SPLIT BRANDS": "TVS"
+  },
+  {
+    "id": 112,
+    "BRAND": "TVS-SBL",
+    "SPLIT BRANDS": "TVS-SBL"
+  },
+  {
+    "id": 113,
+    "BRAND": "USHA",
+    "SPLIT BRANDS": "USHA"
+  },
+  {
+    "id": 114,
+    "BRAND": "ValueParts",
+    "SPLIT BRANDS": "ValueParts"
+  },
+  {
+    "id": 115,
+    "BRAND": "WABCO",
+    "SPLIT BRANDS": "WABCO"
+  },
+  {
+    "id": 116,
+    "BRAND": "WIX",
+    "SPLIT BRANDS": "WIX"
+  }
+]

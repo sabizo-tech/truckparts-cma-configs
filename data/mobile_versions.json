@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "sno": 1,
+      "version": "1.1.0",
+      "build_number": 30,
+      "valid_upto": null,
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 2,
+      "version": "1.1.0",
+      "build_number": 31,
+      "valid_upto": null,
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 3,
+      "version": "1.1.0",
+      "build_number": 32,
+      "valid_upto": null,
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 4,
+      "version": "1.1.0",
+      "build_number": 33,
+      "valid_upto": null,
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 5,
+      "version": "1.1.0",
+      "build_number": 34,
+      "valid_upto": "2026-06-30",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 6,
+      "version": "1.1.0",
+      "build_number": 35,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 7,
+      "version": "1.1.0",
+      "build_number": 36,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 8,
+      "version": "1.1.0",
+      "build_number": 37,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 9,
+      "version": "1.1.0",
+      "build_number": 38,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 10,
+      "version": "1.1.0",
+      "build_number": 39,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 11,
+      "version": "1.1.0",
+      "build_number": 40,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 12,
+      "version": "1.1.0",
+      "build_number": 41,
+      "valid_upto": "2026-07-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 13,
+      "version": "1.1.0",
+      "build_number": 42,
+      "valid_upto": "2026-08-31",
+      "message": null,
+      "active_flag": "N"
+    },
+    {
+      "sno": 14,
+      "version": "1.1.0",
+      "build_number": 43,
+      "valid_upto": "2026-08-31",
+      "message": null,
+      "active_flag": "Y"
+    },
+    {
+      "sno": 15,
+      "version": "1.1.0",
+      "build_number": 44,
+      "valid_upto": "2026-09-30",
+      "message": null,
+      "active_flag": "Y"
+    }
+  ]
+}

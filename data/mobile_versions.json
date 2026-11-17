@@ -150,7 +150,7 @@
       "build_number": 48,
       "valid_upto": "2126-09-30",
       "message": "Version 2.0.0 (Build 48) is now available with new features and improvements. Please update to continue using the app.",
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 20,
@@ -158,7 +158,7 @@
       "build_number": 49,
       "valid_upto": "2126-11-30",
       "message": "Version 2.0.0 (Build 49) is now available with new features and improvements. Please update to continue using the app.",
-      "active_flag": "Y"
+      "active_flag": "N"
     },
     {
       "sno": 21,
